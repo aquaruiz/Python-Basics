@@ -1,5 +1,7 @@
 *.log
 *.mp4
+*.doc
+*.docx
 wp-config.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
